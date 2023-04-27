@@ -1,0 +1,28 @@
+.header{
+    background-color: #b4d2ec;
+    border:solid;
+    border-width:10px;
+    border-color:#4792d4;
+    padding:20px;
+    margin:10px;
+    text-align:center
+}
+
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border:solid;
+    border-color:#4792d4;
+    border-width:10px;
+    background-color: #b4d2ec;
+    font-size: 120%;
+    text-align: center;
+    padding: 30px;
+    margin: 50px;
+
+}
+
+p,h2{
+    text-align: center;
+}
